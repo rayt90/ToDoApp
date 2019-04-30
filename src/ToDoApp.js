@@ -47,7 +47,6 @@ deleteItem(key) {
 
   render() {
     return (
-
       <div className="todoListMain">
         <div className=" header">
           <form onSubmit={this.addItem}>
