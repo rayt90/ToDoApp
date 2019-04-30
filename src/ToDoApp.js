@@ -2,7 +2,10 @@ import React, { Component } from "react";
 import ToDoItems from "./ToDoItems";
 import "./ToDoList.scss";
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8e280f766065fb59cca861f0b67e24efe68d8bec
 class ToDoApp extends Component {
   constructor(props) {
     super(props);
